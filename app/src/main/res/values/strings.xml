@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="my_name">Nicholas Quinn</string>
+    <string name="star_image_description">A small golden star</string>
+    <string name="done">Done</string>
+    <string name="bio_text_sample">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Sit amet cursus sit amet dictum
+        sit amet. Convallis posuere morbi leo urna molestie at elementum eu facilisis. Et tortor at
+        risus viverra. Dignissim cras tincidunt lobortis feugiat vivamus at augue. Elementum
+        pulvinar etiam non quam lacus suspendisse faucibus. Auctor urna nunc id cursus metus aliquam
+        eleifend mi. Tortor id aliquet lectus proin nibh nisl condimentum id venenatis. Vel pharetra
+        vel turpis nunc eget lorem dolor sed. Purus non enim praesent elementum facilisis leo.
+        Bibendum est ultricies integer quis auctor. Sed blandit libero volutpat sed cras ornare
+        arcu. Et molestie ac feugiat sed lectus vestibulum. Egestas integer eget aliquet nibh.
+        Eu consequat ac felis donec et odio pellentesque diam.\n\n
+        Ac feugiat sed lectus vestibulum mattis. Malesuada fames ac turpis egestas. Tempor id eu
+        nisl nunc mi ipsum. Erat velit scelerisque in dictum non consectetur a erat nam. Mollis
+        aliquam ut porttitor leo a diam sollicitudin. Augue eget arcu dictum varius duis. Id donec
+        ultrices tincidunt arcu non sodales. Et egestas quis ipsum suspendisse ultrices. Vitae et
+        leo duis ut. Blandit massa enim nec dui nunc mattis enim ut. Nunc lobortis mattis aliquam
+        faucibus purus in massa tempor. Vel orci porta non pulvinar. Non tellus orci ac auctor
+        augue mauris augue.</string>
+    <string name="android_logo_description">the little android robot logo</string>
+    <string name="nickname_prompt">What is your nick-name?</string>
+</resources>
